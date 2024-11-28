@@ -1,2 +1,2 @@
 # vibsync
-Plug in monitoring energy flow in electronic hardwares ensuring minimum environmental effect and optimal energy efficiency.
+Plug in monitoring energy flow in and through available electronic hardwares. Ensuring minimum environmental effect and optimal energy efficiency.
